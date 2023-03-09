@@ -1,0 +1,7 @@
+site_name: IGTI Data MLOps 
+repo_url: https://github.com/maods2/igti-data-mlops-arch
+repo_name: igti-data-mlops-arch
+edit_uri: tree/main/docs
+theme: 
+  name: material
+  language: pt-BR
