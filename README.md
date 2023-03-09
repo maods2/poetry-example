@@ -42,5 +42,11 @@ poetry add --group doc mkdocstrings-python # Doc generator
 mkdocs new .
 mkdocs serve
 
+
+
+task -l 
+task test 
+
+
 ````
 
