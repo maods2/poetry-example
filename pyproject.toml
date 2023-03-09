@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "igti-data-mlops-arch"
+version = "0.1.0"
+description = ""
+authors = ["Matheus Augusto <matheusalgusto_@hotmail.com>"]
+readme = "README.md"
+packages = [{include = "igti_data_mlops_arch"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
