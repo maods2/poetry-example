@@ -39,7 +39,8 @@ poetry add --group doc mkdocs-material # Doc generator
 poetry add --group doc mkdocstrings # Doc generator
 poetry add --group doc mkdocstrings-python # Doc generator
 
-
+mkdocs new .
+mkdocs serve
 
 ````
 
