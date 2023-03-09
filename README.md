@@ -25,7 +25,21 @@ poetry --version
 
 4. Inicializing virtual env with poetry
 ````
-poetry init
+poetry init or poetry new project_name
 poetry shell
 
+
+poetry add --group dev pytest
+poetry add --group dev pytest-cov 
+poetry add --group dev blue # PEP8 Formater
+poetry add --group dev isort # import sorting
+poetry add --group dev taskipy # automation scripting
+
+poetry add --group doc mkdocs-material # Doc generator
+poetry add --group doc mkdocstrings # Doc generator
+poetry add --group doc mkdocstrings-python # Doc generator
+
+
+
 ````
+
