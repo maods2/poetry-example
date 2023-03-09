@@ -47,6 +47,7 @@ mkdocs serve
 task -l 
 task test 
 
+git add -p
 
 ````
 
